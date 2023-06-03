@@ -1,0 +1,45 @@
+C:\Users\Camila\Desktop\Hebinho\Jovem Programador\C#\PrimeiroExOrietObj\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.exe
+C:\Users\Camila\Desktop\Hebinho\Jovem Programador\C#\PrimeiroExOrietObj\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.deps.json
+C:\Users\Camila\Desktop\Hebinho\Jovem Programador\C#\PrimeiroExOrietObj\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.runtimeconfig.json
+C:\Users\Camila\Desktop\Hebinho\Jovem Programador\C#\PrimeiroExOrietObj\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.dll
+C:\Users\Camila\Desktop\Hebinho\Jovem Programador\C#\PrimeiroExOrietObj\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.pdb
+C:\Users\Camila\Desktop\Hebinho\Jovem Programador\C#\PrimeiroExOrietObj\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.csproj.AssemblyReference.cache
+C:\Users\Camila\Desktop\Hebinho\Jovem Programador\C#\PrimeiroExOrietObj\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camila\Desktop\Hebinho\Jovem Programador\C#\PrimeiroExOrietObj\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.AssemblyInfoInputs.cache
+C:\Users\Camila\Desktop\Hebinho\Jovem Programador\C#\PrimeiroExOrietObj\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.AssemblyInfo.cs
+C:\Users\Camila\Desktop\Hebinho\Jovem Programador\C#\PrimeiroExOrietObj\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Desktop\Hebinho\Jovem Programador\C#\PrimeiroExOrietObj\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.dll
+C:\Users\Camila\Desktop\Hebinho\Jovem Programador\C#\PrimeiroExOrietObj\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\refint\PrimeiraAula.dll
+C:\Users\Camila\Desktop\Hebinho\Jovem Programador\C#\PrimeiroExOrietObj\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.pdb
+C:\Users\Camila\Desktop\Hebinho\Jovem Programador\C#\PrimeiroExOrietObj\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.genruntimeconfig.cache
+C:\Users\Camila\Desktop\Hebinho\Jovem Programador\C#\PrimeiroExOrietObj\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\ref\PrimeiraAula.dll
+C:\Users\hebert.barbosa\C#\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.exe
+C:\Users\hebert.barbosa\C#\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.deps.json
+C:\Users\hebert.barbosa\C#\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.runtimeconfig.json
+C:\Users\hebert.barbosa\C#\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.dll
+C:\Users\hebert.barbosa\C#\PrimeiraAula\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.pdb
+C:\Users\hebert.barbosa\C#\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.csproj.AssemblyReference.cache
+C:\Users\hebert.barbosa\C#\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hebert.barbosa\C#\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.AssemblyInfoInputs.cache
+C:\Users\hebert.barbosa\C#\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.AssemblyInfo.cs
+C:\Users\hebert.barbosa\C#\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.csproj.CoreCompileInputs.cache
+C:\Users\hebert.barbosa\C#\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.dll
+C:\Users\hebert.barbosa\C#\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\refint\PrimeiraAula.dll
+C:\Users\hebert.barbosa\C#\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.pdb
+C:\Users\hebert.barbosa\C#\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.genruntimeconfig.cache
+C:\Users\hebert.barbosa\C#\PrimeiraAula\PrimeiraAula\obj\Debug\net7.0\ref\PrimeiraAula.dll
+C:\Users\hebert.barbosa\C#\OBJ\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.exe
+C:\Users\hebert.barbosa\C#\OBJ\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.deps.json
+C:\Users\hebert.barbosa\C#\OBJ\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.runtimeconfig.json
+C:\Users\hebert.barbosa\C#\OBJ\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.dll
+C:\Users\hebert.barbosa\C#\OBJ\PrimeiraAula\bin\Debug\net7.0\PrimeiraAula.pdb
+C:\Users\hebert.barbosa\C#\OBJ\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.csproj.AssemblyReference.cache
+C:\Users\hebert.barbosa\C#\OBJ\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hebert.barbosa\C#\OBJ\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.AssemblyInfoInputs.cache
+C:\Users\hebert.barbosa\C#\OBJ\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.AssemblyInfo.cs
+C:\Users\hebert.barbosa\C#\OBJ\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.csproj.CoreCompileInputs.cache
+C:\Users\hebert.barbosa\C#\OBJ\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.dll
+C:\Users\hebert.barbosa\C#\OBJ\PrimeiraAula\obj\Debug\net7.0\refint\PrimeiraAula.dll
+C:\Users\hebert.barbosa\C#\OBJ\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.pdb
+C:\Users\hebert.barbosa\C#\OBJ\PrimeiraAula\obj\Debug\net7.0\PrimeiraAula.genruntimeconfig.cache
+C:\Users\hebert.barbosa\C#\OBJ\PrimeiraAula\obj\Debug\net7.0\ref\PrimeiraAula.dll
